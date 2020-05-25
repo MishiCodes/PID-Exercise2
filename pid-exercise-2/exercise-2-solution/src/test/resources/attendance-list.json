@@ -1,0 +1,1 @@
+{"attendances":[{"date":"2020-10-25","attendance":[{"attended":false,"name":"Name1","id":"id1"},{"attended":true,"name":"Name2","id":"id2"}]},{"date":"2020-10-19","attendance":[{"attended":true,"name":"Name1","id":"id1"},{"attended":true,"name":"Name2","id":"id2"}]}]}
